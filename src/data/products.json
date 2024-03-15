@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Tomate",
+    "description": "Tomate fresco",
+    "code": "PRD-ABC123",
+    "price": 2000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  },
+  {
+    "id": 2,
+    "title": "Lechuga",
+    "description": "Lechuga fresca",
+    "code": "PRD-DEF456",
+    "price": 3000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 10,
+    "category": "Vegetales"
+  },
+  {
+    "id": 3,
+    "title": "Zanahoria",
+    "description": "Zanahoria orgánica",
+    "code": "PRD-GHI789",
+    "price": 4000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  },
+  {
+    "id": 4,
+    "title": "Papa",
+    "description": "Papa recién cosechada",
+    "code": "PRD-JKL012",
+    "price": 4000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  },
+  {
+    "id": 5,
+    "title": "Cebolla",
+    "description": "Cebolla fresca",
+    "code": "PRD-MNO345",
+    "price": 4000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  },
+  {
+    "id": 6,
+    "title": "Pimiento",
+    "description": "Pimiento verde",
+    "code": "PRD-PQR678",
+    "price": 4000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  },
+  {
+    "id": 7,
+    "title": "Espinaca",
+    "description": "Espinaca orgánica",
+    "code": "PRD-STU901",
+    "price": 4000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  },
+  {
+    "id": 8,
+    "title": "Ajo",
+    "description": "Ajo fresco",
+    "code": "PRD-VWX234",
+    "price": 4000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  },
+  {
+    "id": 9,
+    "title": "Pepino",
+    "description": "Pepino orgánico",
+    "code": "PRD-YZ0ABC",
+    "price": 4000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  },
+  {
+    "id": 10,
+    "title": "Espinaca",
+    "description": "Espinaca fresca",
+    "code": "PRD-123DEF",
+    "price": 4000,
+    "status": 1,
+    "thumbnails": [],
+    "stock": 25,
+    "category": "Vegetales"
+  }
+]
